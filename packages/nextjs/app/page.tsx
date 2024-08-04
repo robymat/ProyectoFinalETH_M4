@@ -14,6 +14,7 @@ const Home: NextPage = () => {
       <div className="flex flex-wrap gap-4 p-5">
         <ClearImage tokenId={0} address={connectedAddress} />
         <ClearImage tokenId={1} address={connectedAddress} />
+        <ClearImage tokenId={2} address={connectedAddress} />
       </div>
     </>
   );
