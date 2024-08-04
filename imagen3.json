@@ -1,0 +1,27 @@
+{
+  "description": "Super heroes en forma de animales bolivianos 2",
+  "image": "ipfs://QmRieBD2eKsopoMC6s5dvNAZxB2dfWYaLbKswzg3NdrCy9",
+  "name": "imagen3.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Boca",
+      "valor": "Grande"
+    },
+    {
+      "trait_type": "Fondo",
+      "valor": "Decierto"
+    },
+    {
+      "trait_type": "Cabello",
+      "value": "Melena"
+    },
+    {
+      "trait_type": "Ojos",
+      "valor": "Grandes"
+    },
+    {
+      "trait_type": "Ropa",
+      "valor": "Excentrica"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "description": "super heroes en forma de animales bolivianos",
+  "image": "ipfs://QmVF5M25hmhrmeForUxJ9DKFLAQhC3uCzR4usUhViEeanP",
+  "name": "imagen1.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Boca",
+      "valor": "Sonriza"
+    },
+    {
+      "trait_type": "Fondo",
+      "valor": "desierto"
+    },
+    {
+      "trait_type": "Cabello",
+      "value": "Largo"
+    },
+    {
+      "trait_type": "Ojos",
+      "valor": "Lindos"
+    },
+    {
+      "trait_type": "Ropa",
+      "valor": "Chevere"
+    }
+  ]
+}
